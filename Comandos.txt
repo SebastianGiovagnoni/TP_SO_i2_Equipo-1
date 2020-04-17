@@ -1,0 +1,124 @@
+BETA
+1 git clone https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1.git
+2 cd TP_SO_i2_Equipo-1/
+3 git add .
+4 git commit -m "NuevoDato"
+5 git push
+6 git add .
+7 git commit -m "respuestas"
+8 git push
+----------------------------------------------------------------------------------------------
+ALFA
+1 asda
+Estado de 2 git
+3 git config --global user.phaser005
+4 git init
+5 ls
+6 pwd
+7 pwd
+Escritorio de 8 cd
+9 pwd
+10 pwd
+11 ls
+12 ls
+13 git config -global user.name "phaser"
+14 git config --global user.name "phaser"
+15 git config –-global user.name "Elias Alvarez"
+16 git config --global user.name "Elias Alvarez"
+17 git config --global user.email "elias.m.alvarez@gmail.com"
+18 git init
+19 prueba táctil.txt
+20 git add.
+21 git commit -m "commit"
+22 git agregar
+23 git add.
+24 git commit -m "segunda confirmación"
+25 git push
+26 git pull
+27 git pull
+28 prueba táctil.txt
+29 git add.
+30 git commit -m "agregado test.txt"
+31 git push
+32 git push
+33 git push
+34 git commit
+35 git push
+36 historia
+37 claro
+38 ls
+39 vi fork.txt
+40 ls
+41 Alvarez Elias Martin >> fork.txt
+42 "Alvarez Elias Martin" >> fork.txt
+43 hombre echo
+44 gato "Alvarez Elias Martin IP: 181.44.119.160" fork.txt
+45 gato fork.txt> "Alvarez Elias Martin IP: 181.44.119.160"
+46 echo 'Alvarez Elias Martin IP: 181.44.119.160' >> fork.txt
+47 echo '10: 3 '
+48 echo '10: 39 '>> fork.txt
+49 echo '\ n10: 40' >> fork.txt
+50 echo 'Alvarez Elias Martin IP: 181.44.119.16 Hora: 10:41' >> fork.txt
+51 git push
+52 git remote add <elias> <https://github.com/phaser005/TP_SO_i2_Equipo-1>
+53 git remote add elias https://github.com/phaser005/TP_SO_i2_Equipo-1
+54 git push elias
+55 git push --set-upstream elias master
+56 git commit -m "commit"
+57 git push -u maestro de origen
+58 git push
+59 git remote add elias https://github.com/phaser005/TP_SO_i2_Equipo-1
+60 git push elias
+61 git push --set-upstream elias master
+62 git config --global user.email elias.m.alvarez@gmail.com
+63 git config --global user.name elias
+Empuje de 64 git
+65 git remoto agregar elias https://github.com/phaser005/TP_SO_i2_Equipo-1
+66 git push elias
+67 git push --set-upstream elias master
+68 git remoto -v
+69 git remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1
+70 git remoto -v
+71 git commit -m "Modificado IP"
+72 git push elias
+73 git push --set-upstream elias master
+74 git remote -v
+75 git commit -m "Modificado"
+76 git clon TP_SO_i2_Equipo-1
+77 clon de git https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1.git
+78 cd "TP_SO_i2_Equipo-1"
+79 historia
+80 echo 'Alvarez Elias Martin IP: 181.44.119.16 Hora: 10:41' >> fork.txt
+81 git commit -m "Fork.txt modificado"
+82 git push
+83 git push origen maestro
+84 git remoto -v
+Clon de 85 git https://github.com/phaser005/TP_SO_i2_Equipo-1.git
+86 cd "TP_SO_i2_Equipo-1"
+87 historia
+88 echo 'Alvarez Elias Martin IP: 181.44.119.16 Hora: 11:07' >> fork.txt
+89 git add.
+90 git commit -m "Cambios Modificados"
+91 git push
+92 git Remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1
+93 git buscar aguas arriba
+94 git checkout master
+95 git buscar aguas arriba
+96 git Remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1.git
+97 git buscar aguas arriba
+98 ls
+99 obtener buscar aguas arriba
+Búsqueda de 100 git aguas arriba
+101 git remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1
+102 git buscar aguas arriba
+103 git remoto agregar aguas arriba 
+104 git Remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1
+105 git eliminar rm aguas arriba
+106 git rm remoto aguas arriba
+107 git remote add upstream https://github.com/SebastianGiovagnoni/TP_SO_i2_Equipo-1
+108 git remoto -v
+109 git buscar aguas arriba
+110 git merge upstream / master
+111 historia
+112 historia> historialCOmandos.txt
+113 historia> historialComandos.txt
